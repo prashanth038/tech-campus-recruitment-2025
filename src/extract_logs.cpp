@@ -5,10 +5,10 @@
 // Function to extract logs for a given date and save them to an output file
 void extract_logs(const std::string& date) {
     // Define the input log file path
-    std::ifstream infile("C:\\Users\\Karthik\\tech-campus-recruitment-2025\\logs_2024.log");
+    std::ifstream infile("C:\\Users\\prashanth\\tech-campus-recruitment-2025\\logs_2024.log");
 
     // Define the output file path where extracted logs will be saved
-    std::string output_file = "C:\\Users\\Karthik\\tech-campus-recruitment-2025\\output\\output_" + date + ".txt";
+    std::string output_file = "C:\\Users\\prashanth\\tech-campus-recruitment-2025\\output\\output_" + date + ".txt";
     std::ofstream outfile(output_file);
 
     // Check if input or output file failed to open
