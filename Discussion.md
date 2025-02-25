@@ -45,7 +45,7 @@ While indexing and parallel processing could improve performance, they introduce
 Ensure you have a C++ compiler installed (such as g++). Open a terminal or command prompt and navigate to the source directory:
 
 ```sh
-cd C:\Users\Karthik\tech-campus-recruitment-2025\src
+cd C:\Users\prashanth\tech-campus-recruitment-2025\src
 ```
 
 Then, compile the code:
@@ -65,7 +65,7 @@ Execute the program with the desired date:
 This will extract all logs from `logs_2024.log` for the given date and save them to:
 
 ```
-C:\Users\Karthik\tech-campus-recruitment-2025\output\output_2024-12-01.txt
+C:\Users\prashanth\tech-campus-recruitment-2025\output\output_2024-12-01.txt
 ```
 
 ### **3. Verify Output**
